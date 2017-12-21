@@ -1,5 +1,7 @@
 # Yore
 
+[Play Yore at this link](https://yoregame.herokuapp.com/)
+
 Yore was a group project undertaken by [Jamie Sime](https://github.com/jamiesime), [Louise Reid](https://github.com/LouiseReid), [Alex MacFadyen](https://github.com/AMacFadyen) and [James Stewart](https://github.com/ShetlandJ) as part of CodeClan, Scotland's Digital Skills academy.
 
 The class was divided up into groups and given a list of potential projects. Our group decided to combine two separate specs -> create an educational website and create a browser game.
